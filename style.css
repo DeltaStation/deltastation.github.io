@@ -185,19 +185,9 @@ body {
         color: white;
     }
     .delta {
-        font-size: 300%
+        font-size: 300%;
     }
-</style>
-
-<center>
-    <br>
-    <h1 class="delta" style="font-family: Oswald">-DELTASTATION-</h1>
-    <br>
-    <img class="img-circle" src="yebro.PNG" border="3">
-    <br>
-    <style>
- 
-    .img-circle {
+.img-circle {
         border-radius: 50%;
         width: 10%;
         height: auto;
